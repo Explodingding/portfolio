@@ -68,11 +68,11 @@ export const Dreaminn = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl font-bold text-white mb-4">
-            <span className="text-[#f0141e]">Dream</span>inn
+            Project <span className="text-[#f0141e]">Ideas</span>
           </h2>
           <p className="text-gray-300 max-w-3xl mx-auto">
-            This is where imagination meets innovation. Dreaminn is my space for showcasing concept ideas 
-            and potential future projects. These are ventures I&apos;m passionate about developing further.
+            Creative concepts and project ideas I&apos;m planning to develop. 
+            These represent my vision for future innovative applications.
           </p>
         </motion.div>
 

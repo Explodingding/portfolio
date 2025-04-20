@@ -8,7 +8,7 @@ export const Navigation = () => {
     { name: 'Home', href: '/' },
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'Skills', href: '#skills' },
-    { name: 'Dreaminn', href: '#dreaminn' },
+    { name: 'Projects', href: '#dreaminn' },
     { name: 'Contact', href: '#contact' },
   ];
 

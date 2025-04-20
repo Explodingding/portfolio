@@ -4,6 +4,7 @@ import { Portfolio } from '../components/Portfolio';
 import { Skills } from '../components/Skills';
 import { Dreaminn } from '../components/Dreaminn';
 import { Contact } from '../components/Contact';
+import { DreaminnApp } from '../components/DreaminnApp';
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Portfolio />
       <Skills />
       <Dreaminn />
+      <DreaminnApp />
       <Contact />
     </main>
   );
