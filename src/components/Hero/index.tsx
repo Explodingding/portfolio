@@ -16,7 +16,7 @@ export const Hero = () => {
         className="absolute inset-0 flex items-center justify-center"
       >
         <h1 className="text-6xl font-bold text-white">
-          <span className="text-[#f0141e]">Portfolio</span> Name
+          <span className="text-[#f0141e]">Exploding</span> Portfolio
         </h1>
       </motion.div>
     </motion.section>

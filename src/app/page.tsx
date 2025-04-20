@@ -2,6 +2,7 @@ import { Hero } from '../components/Hero';
 import { Navigation } from '../components/Navigation';
 import { Portfolio } from '../components/Portfolio';
 import { Skills } from '../components/Skills';
+import { Dreaminn } from '../components/Dreaminn';
 import { Contact } from '../components/Contact';
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <Hero />
       <Portfolio />
       <Skills />
+      <Dreaminn />
       <Contact />
     </main>
   );
