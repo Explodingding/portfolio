@@ -9,6 +9,7 @@ export const Navigation = () => {
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'Skills', href: '#skills' },
     { name: 'Projects', href: '#dreaminn' },
+    { name: 'Dreaminn App', href: '#dreaminn-app' },
     { name: 'Contact', href: '#contact' },
   ];
 
