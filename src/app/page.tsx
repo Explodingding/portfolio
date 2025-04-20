@@ -1,8 +1,8 @@
-import { Hero } from '../../portfolio-site/src/components/Hero';
-import { Navigation } from '../../portfolio-site/src/components/Navigation';
-import { Portfolio } from '../../portfolio-site/src/components/Portfolio';
-import { Skills } from '../../portfolio-site/src/components/Skills';
-import { Contact } from '../../portfolio-site/src/components/Contact';
+import { Hero } from '../components/Hero';
+import { Navigation } from '../components/Navigation';
+import { Portfolio } from '../components/Portfolio';
+import { Skills } from '../components/Skills';
+import { Contact } from '../components/Contact';
 
 export default function Home() {
   return (
